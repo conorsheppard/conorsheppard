@@ -1,6 +1,8 @@
 ### Hi there 👋🏼 I'm Conor
 #### Fullstack Software Engineer | Designing intuitive UIs, optimized UX, robust, distributed, fault-tolerant applications, and streamlining DevOps pipelines to deliver unified digital solutions.
 
+---
+
 [![Conor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=conorsheppard&theme=react)](https://github.com/conorsheppard/github-readme-activity-graph)
 
 ---
@@ -35,6 +37,14 @@ Demonstrated success in end-to-end project management, ensuring scalability, mai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="60" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-original-wordmark.svg" height="60" alt="redis logo"  />
 </div>
+
+###
+
+---
+
+<h4><i>"Finding the simple solutions to inherently complex problems."</i></h4>
 
 ###
