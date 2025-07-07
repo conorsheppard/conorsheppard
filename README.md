@@ -1,5 +1,5 @@
 ### Hi there 👋🏼 I'm Conor
-#### Fullstack Software Engineer | Designing intuitive UIs, optimized UX, robust, distributed, fault-tolerant applications, and streamlining DevOps pipelines to deliver unified digital solutions.
+#### Cloud-Native Java Engineer | Designing intuitive UIs, optimized UX, robust, distributed, fault-tolerant applications, and streamlining DevOps pipelines to deliver unified digital solutions.
 
 ---
 
@@ -20,8 +20,8 @@ Demonstrated success in end-to-end project management, ensuring scalability, mai
 ###
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
